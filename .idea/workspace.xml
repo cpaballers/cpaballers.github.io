@@ -10,10 +10,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="394ab0f5-153a-47c7-9b13-be58204f66c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/particles.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/particles.min.js" afterDir="false" />
+    <list default="true" id="394ab0f5-153a-47c7-9b13-be58204f66c7" name="Default Changelist" comment="push">
+      <change afterPath="$PROJECT_DIR$/favicon/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cpaballer-lander.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/particles.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/particles.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cpaballer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,15 +44,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/favicon" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\laragon\www\cpaballers-lander\js" />
+      <recent name="E:\laragon\www\cpaballers-lander\favicon" />
       <recent name="E:\laragon\www\cpaballers-lander\img" />
+      <recent name="E:\laragon\www\cpaballers-lander\js" />
       <recent name="E:\laragon\www\cpaballers-lander\css" />
     </key>
   </component>
@@ -56,8 +66,16 @@
       <option name="presentableId" value="Default" />
       <updated>1600389575321</updated>
       <workItem from="1600389579160" duration="2311000" />
-      <workItem from="1600391926426" duration="1764000" />
+      <workItem from="1600391926426" duration="3074000" />
     </task>
+    <task id="LOCAL-00001" summary="push">
+      <created>1600395255607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600395255607</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,14 +92,18 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="461" y="165" key="SettingsEditor" timestamp="1600391891487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600391891487" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600391965333">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600395262023">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600391965333" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600395262023" />
   </component>
 </project>
